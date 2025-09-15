@@ -1,0 +1,12 @@
+Given a positive integer N, write a recursive function that prints the numbers from N down to 1, each on a new line. You are not allowed to use any iterative loops (e.g., for or while loops).
+Constraints:
+N will be a positive integer.
+Example:
+If N = 5, the output should be:
+Code
+
+5
+4
+3
+2
+1
