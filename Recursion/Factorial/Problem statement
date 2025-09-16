@@ -1,0 +1,10 @@
+A single non-negative integer, n.
+Output:
+The factorial of n, denoted as n!, which is the product of all positive integers less than or equal to n. If n is 0, the factorial is defined as 1. If n is a negative integer, the program should indicate that the factorial is undefined for such input.
+Example:
+Input: 5
+Output: 120 (since 5! = 5 * 4 * 3 * 2 * 1 = 120)
+Input: 0
+Output: 1 (since 0! = 1 by definition)
+Input: -3
+Output: Factorial is undefined for negative numbers. (or a similar error message)
