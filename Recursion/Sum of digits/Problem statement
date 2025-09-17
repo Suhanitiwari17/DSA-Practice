@@ -1,0 +1,15 @@
+A single integer N. This integer can be positive, negative, or zero. For negative numbers, the sum of digits should be calculated as if the number were positive (i.e., the absolute value of the number).
+Output:
+An integer representing the sum of the digits of N. 
+Examples:
+Input: N = 123
+Output: 6 (because 1 + 2 + 3 = 6)
+
+Input: N = 407
+Output: 11 (because 4 + 0 + 7 = 11)
+
+Input: N = -58
+Output: 13 (because |-58| = 58, and 5 + 8 = 13)
+
+Input: N = 0
+Output: 0 (because the sum of digits of 0 is 0)
