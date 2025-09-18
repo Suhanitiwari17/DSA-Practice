@@ -1,0 +1,6 @@
+Write a function to calculate the nth Fibonacci number using recursion. The Fibonacci sequence is defined as follows:
+
+fib(0) = 0
+fib(1) = 1
+For n > 1: fib(n) = fib(n - 1) + fib(n - 2)
+Given n, return the nth Fibonacci number.
