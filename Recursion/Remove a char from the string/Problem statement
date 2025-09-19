@@ -1,0 +1,15 @@
+Given a string s and a character c, write a recursive function to return a new string where all occurrences of character c have been removed from s.
+Input: s: The input string and c: The character to be removed.
+
+Output:
+A new string with all occurrences of c removed.
+
+Constraints:
+The input string s can be empty.
+The character c can be any valid character.
+
+Examples:
+Code
+removeChar("hello", 'l')  -> "heo"
+removeChar("programming", 'g') -> "prorammine"
+removeChar("apple", 'p') -> "ale"
