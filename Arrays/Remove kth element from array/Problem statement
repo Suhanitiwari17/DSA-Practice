@@ -1,0 +1,12 @@
+Given an array A of size N and an integer i, where 0 <= i < N, the task is to remove the element at the i-th index from the array A. The resulting array should contain N-1 elements, with the order of the remaining elements preserved.
+
+Input:
+An array A (e.g., A = [element_0, element_1, ..., element_N-1])
+An integer i representing the index of the element to be removed.
+
+Output:
+A modified array A with the element at index i removed, and the remaining elements shifted to maintain contiguity.
+
+Constraints:
+The index i must be a valid index within the array's bounds (i.e., 0 <= i < N).
+The array A can be empty or contain one or more elements
