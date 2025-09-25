@@ -1,0 +1,11 @@
+Given an array nums of integers, return a new array runningSum where runningSum[i] is the sum of all elements from nums[0] up to nums[i] (inclusive).
+In simpler terms, each element in the runningSum array represents the cumulative sum of the elements in the original nums array up to that corresponding index.
+
+Example:
+If nums = [1, 2, 3, 4], then the expected runningSum would be [1, 3, 6, 10]. 
+
+Explanation of the example:
+runningSum[0] = nums[0] = 1
+runningSum[1] = nums[0] + nums[1] = 1 + 2 = 3
+runningSum[2] = nums[0] + nums[1] + nums[2] = 1 + 2 + 3 = 6
+runningSum[3] = nums[0] + nums[1] + nums[2] + nums[3] = 1 + 2 + 3 + 4 = 10
