@@ -1,0 +1,14 @@
+Given an array or list of N elements and a target element X, determine if X is present in the array. 
+If X is found, return the index of its first occurrence within the array. 
+If X is not found after searching through all elements, return a value indicating its absence (e.g., -1).          
+
+Input:     
+An array/list of elements, arr, of size \(N\). A target element, X, to be searched within arr.  
+
+arr = [5, 2, 10, 4, 6]
+X = 10
+
+Output:     
+The 0-based index of the first occurrence of X in arr if X is found. -1 if X is not present in arr. 
+
+2 
