@@ -1,0 +1,16 @@
+You are given an unsorted array of integers and an integer x. Your task is to
+ determine the first and last positions where x appears in the array.
+
+Input Format
+The first line contains an integer T (number of test cases).
+Each test case consists of two lines:
+The first line contains two integers: N (size of the array) and x (the element to search for).
+The second line contains N space-separated integers representing the array elements.
+
+Constraints
+1≤T≤100 (number of test cases)
+1≤N≤10^5(size of the array)
+
+Output Format
+For each test case, print two integers: the first and last occurrence (0-based index) of x. 
+If x is not found, print "−1 −1"
