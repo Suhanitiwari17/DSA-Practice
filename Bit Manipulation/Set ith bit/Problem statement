@@ -1,0 +1,9 @@
+Write a C++ program to set (turn on) a specific bit in the binary representation of a given integer.
+
+The program should:
+
+Take an integer n and a bit position i as input.
+
+Set the i-th bit of n to 1 (counting from the right, starting at index 0).
+
+Return or display the resulting number after setting the bit.
